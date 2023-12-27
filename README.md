@@ -17,4 +17,25 @@ Title: Hotsing a Website in AWS using Terraform and Git
 # Testing
 
 # Script
+- 1. Navigate and Clone Project Folder
+- Install git 
+- Install Github Desktop
+- Install VSCode
+- Try Powershell | Update Powershell
 
+// Set Credentials in git system
+git config --global user.name "Full Name"
+git config --global user.email "email id"
+
+// Creating and Cloning Repository
+```
+mkdir Project
+cd Project
+git clone https://github.com/atulkamble/AWS-Website.git
+cd AWS-Website
+ ```
+
+// Open Project in a VS Code
+```
+code .
+```
