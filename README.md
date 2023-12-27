@@ -39,3 +39,11 @@ cd AWS-Website
 ```
 code .
 ```
+
+// Update Code and Push Code to Github Repository
+```
+git status
+git add README.md
+git commit -m "Updated README File"
+git push
+```
