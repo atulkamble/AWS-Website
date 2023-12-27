@@ -24,7 +24,6 @@ Title: Hotsing a Website in AWS using Terraform and Git
 ```
 aws configure
 ```
-Step 6) 
 - Enter Default Region
 - Enter Access Keys
 - Secret Access key
