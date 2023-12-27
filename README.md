@@ -17,7 +17,7 @@ Title: Hotsing a Website in AWS using Terraform and Git
 # Testing
 
 # Script
-- 1. Navigate and Clone Project Folder
+- Navigate and Clone Project Folder
 - Install git 
 - Install Github Desktop
 - Install VSCode
