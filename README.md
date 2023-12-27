@@ -12,6 +12,24 @@ Title: Hotsing a Website in AWS using Terraform and Git
 
 # Architecture
 
+
+# Environment and Installation | Configuration | Tools
+* CREATE EMPLOYEE ACCOUNT | PROVIDE ACCESS *
+- Naviagte to IAM
+- Create a user | atulkamble
+- Add this user 'Administrator Group'
+- Align Policy | FullAccessAdmin
+- Create Console Sign in | Credentials Access file to be generated | Note it down.
+- Sign in to AWS-CLI credentials.
+```
+aws configure
+```
+Step 6) 
+- Enter Default Region
+- Enter Access Keys
+- Secret Access key
+- Output Format: json
+
 # Developement
 
 # Testing
