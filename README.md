@@ -1,6 +1,11 @@
 # AWS-Website
 Title: Hotsing a Website in AWS using Terraform and Git
 
+# Steps to clone 
+```
+git clone https://github.com/atulkamble/AWS-Website.git
+```
+
 # Services and Tools:
 - EC2
 - github
